@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cake-Latte logo concept one, Orbital Pour</title>
+  <desc id="desc">An orbital C mark with a warm central spark, Cake-Latte by Verloray AI OS, and the tagline Intelligence, beautifully orchestrated.</desc>
+  <defs>
+    <linearGradient id="orbit" x1="110" y1="185" x2="465" y2="695" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB15B"/><stop offset=".45" stop-color="#FF5FA2"/><stop offset="1" stop-color="#6A82FF"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientTransform="translate(291 447) rotate(45) scale(90)">
+      <stop stop-color="#FFF4B0"/><stop offset=".42" stop-color="#FF8F75"/><stop offset="1" stop-color="#C94CFF"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(20 0)">
+    <circle cx="290" cy="450" r="190" fill="none" stroke="#151723" stroke-width="2" opacity=".18"/>
+    <path d="M402 300C345 224 222 224 151 295C65 381 86 528 182 593C277 657 409 606 444 505" fill="none" stroke="url(#orbit)" stroke-width="34" stroke-linecap="round"/>
+    <path d="M230 362C255 329 312 321 346 350C383 382 378 439 338 465C303 488 254 476 235 440" fill="none" stroke="#151723" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="291" cy="447" r="52" fill="url(#core)"/>
+    <circle cx="444" cy="505" r="18" fill="#E9FF77"/>
+    <path d="M270 422C245 395 253 370 276 348M306 418C287 388 295 363 319 341" fill="none" stroke="#FFF9EC" stroke-width="8" stroke-linecap="round" opacity=".82"/>
+  </g>
+  <g fill="#151723">
+    <text x="560" y="420" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="760" letter-spacing="-5">CAKE-LATTE</text>
+    <text x="567" y="480" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="8">BY VERLORAY AI OS</text>
+    <line x1="566" y1="525" x2="1115" y2="525" stroke="#151723" stroke-width="2" opacity=".18"/>
+    <text x="566" y="584" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" letter-spacing=".3">Intelligence, beautifully orchestrated.</text>
+  </g>
+</svg>

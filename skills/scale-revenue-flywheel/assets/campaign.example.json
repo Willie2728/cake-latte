@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "campaign_id": "wilco-primary-offer",
+  "business": {
+    "name": "Wilkerson Collective Inc.",
+    "timezone": "America/Los_Angeles"
+  },
+  "goal": {
+    "current_mrr": 0,
+    "target_mrr": 5000,
+    "target_date": "2026-11-01",
+    "average_revenue_per_customer": 49,
+    "monthly_churn_rate": 0.05,
+    "gross_margin_rate": 0.8
+  },
+  "offer": {
+    "name": "Replace with the first offer",
+    "type": "subscription",
+    "landing_url": "https://example.com",
+    "stripe_payment_link": "",
+    "primary_cta": "Start your free trial"
+  },
+  "audience": {
+    "primary": "Define one narrow initial audience",
+    "problem": "Define the costly or urgent problem",
+    "desired_outcome": "Define the result the buyer values"
+  },
+  "brand": {
+    "voice": ["clear", "credible", "human"],
+    "must_include": [],
+    "prohibited_claims": ["guaranteed income", "guaranteed virality"]
+  },
+  "platforms": [
+    {
+      "name": "tiktok",
+      "integration_id": "",
+      "daily_cap": 2,
+      "publishing_mode": "review_required",
+      "default_post_time": "10:30"
+    },
+    {
+      "name": "instagram",
+      "integration_id": "",
+      "daily_cap": 2,
+      "publishing_mode": "review_required",
+      "default_post_time": "11:15"
+    },
+    {
+      "name": "youtube",
+      "integration_id": "",
+      "daily_cap": 1,
+      "publishing_mode": "review_required",
+      "default_post_time": "12:00"
+    }
+  ],
+  "experimentation": {
+    "allocation": { "exploit": 0.6, "explore": 0.2, "challenger": 0.2 },
+    "minimum_views_for_attention_decision": 1000,
+    "minimum_clicks_for_conversion_decision": 50,
+    "minimum_purchases_for_revenue_decision": 3
+  },
+  "guardrails": {
+    "require_rights_confirmation": true,
+    "require_synthetic_media_disclosure": true,
+    "allow_automated_comments": false,
+    "allow_automated_direct_messages": false,
+    "allow_paid_spend": false,
+    "daily_cost_limit": 25
+  },
+  "connectors": {
+    "primary_model": "gpt-5.6-sol",
+    "fallback_models": [],
+    "publisher": "blotato",
+    "publisher_fallback": "postiz",
+    "web_research": "firecrawl",
+    "commerce": "stripe",
+    "required_environment": ["OPENAI_API_KEY", "BLOTATO_API_KEY", "FIRECRAWL_API_KEY", "STRIPE_SECRET_KEY"]
+  }
+}

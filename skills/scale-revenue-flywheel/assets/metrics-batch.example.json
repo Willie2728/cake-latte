@@ -1,0 +1,25 @@
+{
+  "snapshots": [
+    {
+      "content_id": "replace-with-content-id",
+      "platform": "tiktok",
+      "captured_at": "2026-08-04T06:00:00Z",
+      "impressions": 12500,
+      "views": 11000,
+      "average_watch_pct": 0.63,
+      "completion_rate": 0.38,
+      "shares": 215,
+      "saves": 180,
+      "comments": 72,
+      "profile_visits": 420,
+      "link_clicks": 205,
+      "signups": 34,
+      "trials": 12,
+      "purchases": 4,
+      "new_mrr": 196,
+      "one_time_revenue": 0,
+      "refunds": 0,
+      "content_cost": 8.5
+    }
+  ]
+}

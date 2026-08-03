@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cake-Latte logo concept three, Synapse Rosette</title>
+  <desc id="desc">A luminous eight-node intelligence rosette with the Cake-Latte wordmark and tagline.</desc>
+  <defs>
+    <linearGradient id="petal" x1="150" y1="215" x2="455" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB15B"/><stop offset=".5" stop-color="#FF5FA2"/><stop offset="1" stop-color="#6576FF"/></linearGradient>
+  </defs>
+  <g transform="translate(15 0)" fill="none" stroke-linecap="round">
+    <circle cx="305" cy="450" r="205" stroke="#151723" stroke-width="2" opacity=".12"/>
+    <path d="M305 450C216 394 213 284 305 220C397 284 394 394 305 450Z" stroke="url(#petal)" stroke-width="18"/>
+    <path d="M305 450C361 361 471 358 535 450C471 542 361 539 305 450Z" stroke="url(#petal)" stroke-width="18"/>
+    <path d="M305 450C394 506 397 616 305 680C213 616 216 506 305 450Z" stroke="url(#petal)" stroke-width="18"/>
+    <path d="M305 450C249 539 139 542 75 450C139 358 249 361 305 450Z" stroke="url(#petal)" stroke-width="18"/>
+    <circle cx="305" cy="450" r="58" fill="#151723" stroke="none"/>
+    <circle cx="305" cy="220" r="14" fill="#FFB15B" stroke="none"/>
+    <circle cx="535" cy="450" r="14" fill="#E9FF77" stroke="none"/>
+    <circle cx="305" cy="680" r="14" fill="#6576FF" stroke="none"/>
+    <circle cx="75" cy="450" r="14" fill="#FF5FA2" stroke="none"/>
+    <path d="M280 456L301 475L337 425" stroke="#E9FF77" stroke-width="11"/>
+  </g>
+  <g fill="#151723">
+    <text x="620" y="406" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="760" letter-spacing="-4">CAKE-LATTE</text>
+    <text x="625" y="465" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="7.5">BY VERLORAY AI OS</text>
+    <text x="625" y="552" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-style="italic">Intelligence, beautifully orchestrated.</text>
+  </g>
+</svg>

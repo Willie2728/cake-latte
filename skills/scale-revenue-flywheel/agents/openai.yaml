@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revenue Flywheel"
+  short_description: "Build and optimize autonomous revenue content loops"
+  default_prompt: "Use $scale-revenue-flywheel to build a governed multi-platform content-to-revenue growth system."

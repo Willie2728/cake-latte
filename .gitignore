@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+*.sqlite
+*.sqlite3
+__pycache__/
+.pytest_cache/
+.venv/
+coverage/
+.DS_Store
+
+# Local campaign state, evidence, exports, and generated media never belong in Git.
+campaigns/
+work/

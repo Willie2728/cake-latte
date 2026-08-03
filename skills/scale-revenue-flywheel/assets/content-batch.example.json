@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "platform": "tiktok",
+      "format": "short_video",
+      "audience": "independent service business owners",
+      "problem": "leads disappear because follow-up is inconsistent",
+      "hypothesis": "a specific before-and-after workflow will outperform a generic AI promise",
+      "experiment_cell": "problem_specificity:v1",
+      "hook": "Your leads are not cold. Your follow-up is.",
+      "body": [
+        "Show the missed-lead moment",
+        "Demonstrate the automated recovery workflow",
+        "Show the measurable outcome without inventing results"
+      ],
+      "caption": "A practical system for recovering opportunities that would otherwise disappear.",
+      "cta": "See the complete workflow",
+      "media": ["https://cdn.example.com/video.mp4"],
+      "disclosure": "AI-assisted demonstration",
+      "rights_confirmed": true,
+      "scheduled_at": null
+    }
+  ]
+}

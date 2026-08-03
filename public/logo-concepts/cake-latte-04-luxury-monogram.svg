@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cake-Latte logo concept four, Luxury Monogram</title>
+  <desc id="desc">A refined CL monogram framed in a rounded square, with the Cake-Latte wordmark and tagline.</desc>
+  <defs>
+    <linearGradient id="foil" x1="115" y1="225" x2="505" y2="665" gradientUnits="userSpaceOnUse"><stop stop-color="#FFCC7A"/><stop offset=".38" stop-color="#F176A7"/><stop offset=".75" stop-color="#A275FF"/><stop offset="1" stop-color="#536BFF"/></linearGradient>
+  </defs>
+  <g transform="translate(25 0)">
+    <rect x="95" y="225" width="420" height="450" rx="112" fill="#151723"/>
+    <rect x="119" y="249" width="372" height="402" rx="92" fill="none" stroke="url(#foil)" stroke-width="3"/>
+    <path d="M362 337C334 307 291 292 247 300C175 314 142 398 174 467C207 538 301 552 365 503" fill="none" stroke="url(#foil)" stroke-width="28" stroke-linecap="round"/>
+    <path d="M336 315V532H427" fill="none" stroke="#FFF9EC" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="424" cy="538" r="13" fill="#E9FF77"/>
+  </g>
+  <g fill="#151723">
+    <text x="620" y="398" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-weight="700" letter-spacing="-2">Cake-Latte</text>
+    <text x="627" y="466" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="8">BY VERLORAY AI OS</text>
+    <path d="M628 507H1175" stroke="url(#foil)" stroke-width="6" stroke-linecap="round"/>
+    <text x="627" y="576" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic">Intelligence, beautifully orchestrated.</text>
+  </g>
+</svg>

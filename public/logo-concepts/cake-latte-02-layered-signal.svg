@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Cake-Latte logo concept two, Layered Signal</title>
+  <desc id="desc">Three elegant layers form a cake slice and data stack beside the Cake-Latte wordmark and tagline.</desc>
+  <defs>
+    <linearGradient id="layer1" x1="150" y1="300" x2="475" y2="610" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB15B"/><stop offset="1" stop-color="#FF6B91"/></linearGradient>
+    <linearGradient id="layer2" x1="180" y1="365" x2="465" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#FF6B91"/><stop offset="1" stop-color="#A65CFF"/></linearGradient>
+    <linearGradient id="layer3" x1="205" y1="425" x2="448" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#A65CFF"/><stop offset="1" stop-color="#4D87FF"/></linearGradient>
+  </defs>
+  <g transform="translate(35 0)">
+    <path d="M120 316C120 286 144 262 174 262H441C474 262 500 289 500 321V342L311 421L120 342V316Z" fill="url(#layer1)"/>
+    <path d="M120 382L311 461L500 382V449L311 528L120 449V382Z" fill="url(#layer2)"/>
+    <path d="M120 489L311 568L500 489V556C500 578 487 598 467 607L335 666C319 673 301 673 285 666L153 607C133 598 120 578 120 556V489Z" fill="url(#layer3)"/>
+    <path d="M311 421V666" stroke="#FFF9EC" stroke-width="7" opacity=".7"/>
+    <circle cx="477" cy="264" r="20" fill="#E9FF77"/>
+    <circle cx="523" cy="300" r="8" fill="#4D87FF"/>
+    <circle cx="447" cy="222" r="7" fill="#FF5FA2"/>
+  </g>
+  <g fill="#151723">
+    <text x="620" y="402" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="760" letter-spacing="-4">CAKE-LATTE</text>
+    <text x="625" y="462" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="7.5">BY VERLORAY AI OS</text>
+    <text x="625" y="548" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-style="italic">Intelligence, beautifully orchestrated.</text>
+  </g>
+</svg>
